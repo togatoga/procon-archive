@@ -1,0 +1,12 @@
+{
+	"id": 1458200,
+	"epoch_second": 1501244346,
+	"problem_id": "chokudai_S001_e",
+	"contest_id": "chokudai_S001",
+	"user_id": "togatoga",
+	"language": "Go (1.6)",
+	"point": 200,
+	"length": 2128,
+	"result": "AC",
+	"execution_time": 2
+}
