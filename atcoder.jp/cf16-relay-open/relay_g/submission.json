@@ -1,0 +1,12 @@
+{
+	"id": 1474519,
+	"epoch_second": 1501503446,
+	"problem_id": "relay_g",
+	"contest_id": "cf16-relay-open",
+	"user_id": "togatoga",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 100,
+	"length": 2339,
+	"result": "AC",
+	"execution_time": 74
+}
