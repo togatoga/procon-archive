@@ -1,0 +1,12 @@
+{
+	"id": 1587727,
+	"epoch_second": 1505119704,
+	"problem_id": "kupc2016_b",
+	"contest_id": "kupc2016",
+	"user_id": "togatoga",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 100,
+	"length": 1701,
+	"result": "AC",
+	"execution_time": 9
+}
