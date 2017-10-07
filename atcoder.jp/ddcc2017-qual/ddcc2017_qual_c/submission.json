@@ -1,0 +1,12 @@
+{
+	"id": 1659566,
+	"epoch_second": 1507381523,
+	"problem_id": "ddcc2017_qual_c",
+	"contest_id": "ddcc2017-qual",
+	"user_id": "togatoga",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 300,
+	"length": 2066,
+	"result": "AC",
+	"execution_time": 92
+}
