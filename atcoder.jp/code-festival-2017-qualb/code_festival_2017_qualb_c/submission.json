@@ -1,0 +1,12 @@
+{
+	"id": 1670201,
+	"epoch_second": 1507473954,
+	"problem_id": "code_festival_2017_qualb_c",
+	"contest_id": "code-festival-2017-qualb",
+	"user_id": "togatoga",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 500,
+	"length": 2175,
+	"result": "AC",
+	"execution_time": 94
+}
