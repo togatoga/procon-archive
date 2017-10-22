@@ -1,0 +1,12 @@
+{
+	"id": 1700552,
+	"epoch_second": 1508674170,
+	"problem_id": "code_festival_2017_qualc_b",
+	"contest_id": "code-festival-2017-qualc",
+	"user_id": "togatoga",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 200,
+	"length": 1555,
+	"result": "AC",
+	"execution_time": 5
+}
