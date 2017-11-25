@@ -1,0 +1,12 @@
+{
+	"id": 1805012,
+	"epoch_second": 1511586788,
+	"problem_id": "cf17_final_c",
+	"contest_id": "cf17-final-open",
+	"user_id": "togatoga",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 500,
+	"length": 2195,
+	"result": "AC",
+	"execution_time": 630
+}
