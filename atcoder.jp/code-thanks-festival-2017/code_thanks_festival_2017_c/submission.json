@@ -1,0 +1,12 @@
+{
+	"id": 1869192,
+	"epoch_second": 1513160017,
+	"problem_id": "code_thanks_festival_2017_c",
+	"contest_id": "code-thanks-festival-2017",
+	"user_id": "togatoga",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 300,
+	"length": 1415,
+	"result": "AC",
+	"execution_time": 235
+}
