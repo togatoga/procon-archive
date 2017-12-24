@@ -1,0 +1,12 @@
+{
+	"id": 1903461,
+	"epoch_second": 1514080217,
+	"problem_id": "bcu30_c",
+	"contest_id": "bcu30",
+	"user_id": "togatoga",
+	"language": "Go (1.6)",
+	"point": 100,
+	"length": 3343,
+	"result": "AC",
+	"execution_time": 220
+}
