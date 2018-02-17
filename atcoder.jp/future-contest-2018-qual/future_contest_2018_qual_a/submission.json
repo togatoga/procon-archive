@@ -1,0 +1,12 @@
+{
+	"id": 2104790,
+	"epoch_second": 1518871018,
+	"problem_id": "future_contest_2018_qual_a",
+	"contest_id": "future-contest-2018-qual",
+	"user_id": "togatoga",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 9975299590,
+	"length": 11125,
+	"result": "AC",
+	"execution_time": 5789
+}
