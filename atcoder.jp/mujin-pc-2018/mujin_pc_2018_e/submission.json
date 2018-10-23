@@ -1,0 +1,12 @@
+{
+	"id": 3454383,
+	"epoch_second": 1540257939,
+	"problem_id": "mujin_pc_2018_e",
+	"contest_id": "mujin-pc-2018",
+	"user_id": "togatoga",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 500,
+	"length": 3523,
+	"result": "AC",
+	"execution_time": 296
+}
