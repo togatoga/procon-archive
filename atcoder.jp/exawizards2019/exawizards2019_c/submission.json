@@ -1,0 +1,12 @@
+{
+	"id": 4786549,
+	"epoch_second": 1554028874,
+	"problem_id": "exawizards2019_c",
+	"contest_id": "exawizards2019",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 500,
+	"length": 3753,
+	"result": "AC",
+	"execution_time": 93
+}
