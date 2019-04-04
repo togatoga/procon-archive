@@ -1,0 +1,82 @@
+fn solve() {
+    let s = std::io::stdin();
+    let mut sc = Scanner { stdin: s.lock() };
+    let n: usize = sc.read();
+    let m: usize = sc.read();
+    let mut xs: Vec<i32> = sc.vec(m);
+    xs.sort();
+    if n == 1 {
+        let mut sum: u64 = 0;
+        for i in 0..m - 1 {
+            let tmp = xs[i + 1] - xs[i];
+            sum += tmp as u64;
+        }
+        println!("{}", sum);
+        return ;
+    }
+    let n = n - 2;
+    let mut ys: Vec<u64> = Vec::new();
+    for i in 0..m - 1 {
+        let tmp = xs[i + 1] - xs[i];
+        ys.push(tmp as u64);
+    }
+    ys.sort_by(|x, y| y.cmp(x));
+
+    let mut result = 0;
+    for i in n+1..ys.len() {
+        result += ys[i];
+    }
+    println!("{}", result);
+}
+
+fn main() {
+    std::thread::Builder::new()
+        .stack_size(64 * 1024 * 1024) // 64MB
+        .spawn(|| solve())
+        .unwrap()
+        .join()
+        .unwrap();
+}
+
+//snippet from kenkoooo
+pub struct Scanner<R> {
+    stdin: R,
+}
+
+impl<R: std::io::Read> Scanner<R> {
+    pub fn read<T: std::str::FromStr>(&mut self) -> T {
+        use std::io::Read;
+        let buf = self.stdin
+            .by_ref()
+            .bytes()
+            .map(|b| b.unwrap())
+            .skip_while(|&b| b == b' ' || b == b'\n' || b == b'\r')
+            .take_while(|&b| b != b' ' && b != b'\n' && b != b'\r')
+            .collect::<Vec<_>>();
+        unsafe { std::str::from_utf8_unchecked(&buf) }
+            .parse()
+            .ok()
+            .expect("Parse error.")
+    }
+    pub fn read_line(&mut self) -> String {
+        use std::io::Read;
+        let buf = self.stdin
+            .by_ref()
+            .bytes()
+            .map(|b| b.unwrap())
+            .skip_while(|&b| b == b'\n' || b == b'\r')
+            .take_while(|&b| b != b'\n' && b != b'\r')
+            .collect::<Vec<_>>();
+        unsafe { std::str::from_utf8_unchecked(&buf) }
+            .parse()
+            .ok()
+            .expect("Parse error.")
+    }
+    pub fn vec<T: std::str::FromStr>(&mut self, n: usize) -> Vec<T> {
+        (0..n).map(|_| self.read()).collect()
+    }
+
+    pub fn chars(&mut self) -> Vec<char> {
+        self.read::<String>().chars().collect()
+    }
+}
