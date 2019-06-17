@@ -1,0 +1,12 @@
+{
+	"id": 6004606,
+	"epoch_second": 1560814659,
+	"problem_id": "chokudai_S002_c",
+	"contest_id": "chokudai_S002",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 200,
+	"length": 1833,
+	"result": "AC",
+	"execution_time": 133
+}
