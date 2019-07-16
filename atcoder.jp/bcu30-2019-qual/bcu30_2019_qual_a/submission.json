@@ -1,0 +1,12 @@
+{
+	"id": 6402436,
+	"epoch_second": 1563244483,
+	"problem_id": "bcu30_2019_qual_a",
+	"contest_id": "bcu30-2019-qual",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 100,
+	"length": 1875,
+	"result": "AC",
+	"execution_time": 3
+}
