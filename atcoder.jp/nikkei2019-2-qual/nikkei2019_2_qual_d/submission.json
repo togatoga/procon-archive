@@ -1,0 +1,12 @@
+{
+	"id": 8681093,
+	"epoch_second": 1574913874,
+	"problem_id": "nikkei2019_2_qual_d",
+	"contest_id": "nikkei2019-2-qual",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 600,
+	"length": 2837,
+	"result": "AC",
+	"execution_time": 102
+}
