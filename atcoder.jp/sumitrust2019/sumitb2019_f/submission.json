@@ -1,0 +1,12 @@
+{
+	"id": 8754589,
+	"epoch_second": 1575229121,
+	"problem_id": "sumitb2019_f",
+	"contest_id": "sumitrust2019",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 600,
+	"length": 2379,
+	"result": "AC",
+	"execution_time": 3
+}
