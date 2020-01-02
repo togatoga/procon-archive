@@ -1,0 +1,12 @@
+{
+	"id": 9282526,
+	"epoch_second": 1577946606,
+	"problem_id": "dwacon5th_prelims_c",
+	"contest_id": "dwacon5th-prelims",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 600,
+	"length": 3525,
+	"result": "AC",
+	"execution_time": 1527
+}
