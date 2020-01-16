@@ -1,0 +1,12 @@
+{
+	"id": 9531021,
+	"epoch_second": 1579150543,
+	"problem_id": "jsc2019_qual_c",
+	"contest_id": "jsc2019-qual",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 500,
+	"length": 6542,
+	"result": "AC",
+	"execution_time": 8
+}
