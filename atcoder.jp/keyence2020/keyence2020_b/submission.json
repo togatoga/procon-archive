@@ -1,0 +1,12 @@
+{
+	"id": 9587873,
+	"epoch_second": 1579387458,
+	"problem_id": "keyence2020_b",
+	"contest_id": "keyence2020",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 200,
+	"length": 2138,
+	"result": "AC",
+	"execution_time": 75
+}
