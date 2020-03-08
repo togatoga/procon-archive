@@ -1,0 +1,12 @@
+{
+	"id": 10673024,
+	"epoch_second": 1583669181,
+	"problem_id": "hitachi2020_a",
+	"contest_id": "hitachi2020",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 100,
+	"length": 2718,
+	"result": "AC",
+	"execution_time": 3
+}
