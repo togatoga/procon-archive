@@ -1,0 +1,12 @@
+{
+	"id": 10902561,
+	"epoch_second": 1584225621,
+	"problem_id": "ddcc2020_qual_d",
+	"contest_id": "ddcc2020-qual",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 500,
+	"length": 4172,
+	"result": "AC",
+	"execution_time": 238
+}
