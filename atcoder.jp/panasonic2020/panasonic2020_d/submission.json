@@ -1,0 +1,12 @@
+{
+	"id": 10894139,
+	"epoch_second": 1584195445,
+	"problem_id": "panasonic2020_d",
+	"contest_id": "panasonic2020",
+	"user_id": "togatoga",
+	"language": "Rust (1.15.1)",
+	"point": 400,
+	"length": 3766,
+	"result": "AC",
+	"execution_time": 753
+}
